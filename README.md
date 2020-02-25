@@ -1,4 +1,4 @@
 # VuexAuth
 Membuat Aplikasi User Login dan Registration menggunakan Vuex
-// Run Aplikasi
+# Run Aplikasi
 npm start
